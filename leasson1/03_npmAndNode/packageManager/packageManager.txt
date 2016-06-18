@@ -1,0 +1,24 @@
+Lista de gestores de paquetes mas populares.
+
+1. npm
+	https://www.npmjs.com/
+	https://docs.npmjs.com/files/package.json
+2. bower
+	https://bower.io/
+3. duojs
+	http://duojs.org/
+
+
+Iniciando un proyectos
+
+	* npm init
+	* bower init
+
+manejo de version estandar en paquetes
+
+	https://docs.npmjs.com/getting-started/semantic-versioning
+
+Multiples versiones de node con nvm intalacion en windows
+
+	https://github.com/coreybutler/nvm-windows
+

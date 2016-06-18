@@ -1,0 +1,10 @@
+1. configuración de entorno
+	1.1 instalacion de git y uso de github.
+	1.2 intalación y configuración de sublime text sublime linter.
+2. npm y node.
+	2.1 Instalacion de node y npm.
+	2.2 Como funcionan los paquetes en node y algunas alternitavas para front (package.js) en npm y para que sirven.
+	Package bundling Package bundling.
+	2.3 nvm para instalacion de diferentes versiones de node.
+	2.4 hola mundo en node.
+	2.5 server http en node.

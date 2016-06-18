@@ -1,0 +1,10 @@
+1. intalacion de git para windows
+
+	https://git-for-windows.github.io/
+
+2. creacion de cuenta en git.
+3. uso de git shell para windows.
+4. clonar repositorios leassonFront.
+
+	git clone https://github.com/wrariza/leassonsFront
+

@@ -1,0 +1,27 @@
+1. instalacion de sublime text 3
+
+	https://www.sublimetext.com/3
+
+2. Instalacion de sublime package control.
+
+	https://packagecontrol.io/installation.
+
+3. Inslacion de puglins necesarios para desarrollo frontend
+
+	tema Seti_ui
+
+	https://packagecontrol.io/packages/Seti_UI
+
+	Emmet
+
+	http://emmet.io/blog/sublime-text-3/
+
+	sublime Linter
+
+	https://github.com/SublimeLinter/SublimeLinter-jshint
+
+	http://stackoverflow.com/questions/6803305/should-i-use-jslint-or-jshint-javascript-validation
+
+
+
+
