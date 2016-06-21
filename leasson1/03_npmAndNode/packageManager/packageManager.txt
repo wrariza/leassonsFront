@@ -20,5 +20,5 @@ manejo de version estandar en paquetes
 
 Multiples versiones de node con nvm intalacion en windows
 
-	https://github.com/coreybutler/nvm-windows
+	* para probar https://github.com/coreybutler/nvm-windows
 

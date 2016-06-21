@@ -8,3 +8,10 @@
 	2.3 nvm para instalacion de diferentes versiones de node.
 	2.4 hola mundo en node.
 	2.5 server http en node.
+
+
+Para leer tarea
+	http://stackoverflow.com/questions/27598446/difference-between-jslint-and-jshint
+
+	Package bundling
+		http://browserify.org/

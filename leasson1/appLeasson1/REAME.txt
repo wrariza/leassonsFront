@@ -1,3 +1,0 @@
-Libreria base para el manejo de css con caracteristicas de material
-
-http://materializecss.com/
