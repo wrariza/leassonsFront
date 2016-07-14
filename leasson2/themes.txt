@@ -1,0 +1,9 @@
+1. configuración de proyecto git y proyecto
+	1.1 iniciacion de proyecto.
+	1.2 agregar .gitignore a proyecto.
+	1.3 configuración de usuario en git.
+	1.4 creación de tareas con gulp
+	1.5 creación de proyecto en github y agregar repositorio remoto o orrigen.
+	1.6 agregar tags al proyecto y ver diferencias entre cada uno.
+	1.7 creación de commit y realizar pull y push al reposritorio remoto
+

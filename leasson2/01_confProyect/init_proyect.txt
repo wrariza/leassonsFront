@@ -1,0 +1,50 @@
+Pasos:
+	1: Iniciar proyecto de git con el comando.
+
+			git init
+
+	2: Creamos archivo .gitignore para excluir los achivos que no se deben versionar con el comando.
+
+		touch .gitignore
+
+	3: iniciamos proyecto de node con el comando y llenamos datos de nuestro archivo package.json usando el comando.
+
+		npm init
+
+	4: configuracion de usuario en de github y otras cosas
+
+		Leer esta documentación
+
+		https://git-scm.com/book/es/v1/Empezando-Configurando-Git-por-primera-vez
+
+	5: crear archivo git .gitignore
+
+	6: instalar dependecia de desarrollo gulp y gulp-webserver
+
+		 npm i gulp --save-dev
+
+    7: creamos tarea de gulp para server livereload, creamos carpeta app y archivo index.html
+
+    	levatamos nuestro servidor con el comando gulp server
+
+    8: crear repositorio en github y sincronizar proyecto local
+
+    	de esta marenara se agregar los remotos y se lista los que estan configurados
+
+    	https://help.github.com/articles/adding-a-remote/
+
+    	explicacion de un proyecto desde cero
+
+    	Importante de la creacion de llaves ssh
+
+    	https://www.youtube.com/watch?v=E3usf4UdkAI
+
+
+    9: gregar tags al proyecto y ver diferencias entre cada uno. comandos
+
+    	git tag -a 'nombre del tag' -m 'mensaje de cambio'
+
+    	subir tag github git push orogin 'nombre del tag que se creo'
+
+
+
